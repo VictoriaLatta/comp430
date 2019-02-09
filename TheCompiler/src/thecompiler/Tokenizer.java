@@ -52,9 +52,7 @@ public class Tokenizer
         
         }
         
-        for (int j = 0; j <myList2.size(); j++) {
-            System.out.println(myList2.get(j));
-        }
+        
                 
         System.out.println(myList.size());
     return myList2;
